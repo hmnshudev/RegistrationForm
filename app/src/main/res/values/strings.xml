@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="create_account"><font color="#00ff00">text</font></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Log Out</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="gender">Gender</string>
+    <string name="language">Language</string>
+    <string name="address">Address</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+
+    <string name="userName">Name - %s</string>
+    <string name="userMobile">Mobile - %s</string>
+    <string name="userEmail">Email - %s</string>
+    <string name="userAddress">Address - %s</string>
+    <string name="userGender">Gender - %s</string>
+    <string name="userLanguage">Language - %s</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="hindi">Hindi</string>
+    <string name="english">English</string>
+    <string name="users">Users</string>
+    <string name="time">Time</string>
+    <string name="pin">Please confirm your Administrator Identity to Delete all Users Database. Please Enter the Authentication PIN.</string>
+    <string name="start">*</string>
+    <string name="call">Call</string>
+</resources>
